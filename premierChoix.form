@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="0" green="99" red="ff" type="rgb"/>
+    </Property>
+    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="0" green="cc" red="cc" type="rgb"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
+                              <Component id="smoketitle" min="-2" pref="85" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                              <Component id="checkSmoke" min="-2" pref="85" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="checkNSP" min="-2" pref="85" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="checkPGP" min="-2" pref="85" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="chekNoSmoke" min="-2" pref="109" max="-2" attributes="0"/>
+                                  <Component id="chekWomen" min="-2" pref="85" max="-2" attributes="0"/>
+                                  <Component id="checkTGP" alignment="0" min="-2" pref="85" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="gendertitle" min="-2" pref="85" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                              <Component id="checkMen" min="-2" pref="85" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="title" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="agetitle" min="-2" pref="85" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="age2529" min="-2" pref="85" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="age4549" min="-2" pref="91" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="age3034" min="-2" pref="85" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="age3539" min="-2" pref="91" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="age5559" alignment="0" min="-2" pref="91" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="-2" pref="91" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="age4044" min="-2" pref="67" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="115" max="-2" attributes="0"/>
+                              <Component id="age5054" min="-2" pref="91" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="generatebutton" min="-2" pref="145" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="91" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="41" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+              <Component id="title" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="gendertitle" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="checkMen" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="chekWomen" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="smoketitle" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="checkSmoke" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="chekNoSmoke" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="checkTGP" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="checkPGP" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="checkNSP" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="agetitle" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="age2529" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="age3034" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="age3539" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="age4549" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="age4044" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="age5054" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="age5559" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+              <Component id="generatebutton" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="36" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="gendertitle">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Gender"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="agetitle">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Age"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="smoketitle">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Smoke Habit"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="checkNSP">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="NSP"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="checkPGP">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="PGP"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="checkTGP">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="TGP"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="checkMen">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Men"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chekWomen">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Women"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="age2529">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="25-29"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="checkSmoke">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Smoker"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="chekNoSmoke">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Non-Smoker"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="age3034">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="30-34"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="age3539">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="35-39"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="age4044">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="40-44"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="age4549">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="45-49"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="age5054">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="50-54"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="age5559">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="55-59"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="generatebutton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Generate"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="generatebuttonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="title">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="24" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="PREMIUM Generator"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
